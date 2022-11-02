@@ -1,6 +1,6 @@
 package cl.generationf24102022;
 
-public class Main {
+public class Actividad {
 
     public static void main(String[] args) {
                   
